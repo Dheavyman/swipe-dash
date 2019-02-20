@@ -17,7 +17,7 @@ const Dropdown = () => (
         <i className="material-icons">settings</i>Settings
       </a>
     </li>
-    <li class="divider" tabindex="-1" />
+    <li className="divider" tabIndex="-1" />
     <li>
       <a href="#!">
         <i className="material-icons">info_outline</i>About
@@ -43,7 +43,7 @@ const Dropdown = () => (
         <i className="material-icons">view_module</i>Legal
       </a>
     </li>
-    <li class="divider" tabindex="-1" />
+    <li className="divider" tabIndex="-1" />
     <li>
       <a href="#!">
         <i className="material-icons">cloud</i>Sign out
